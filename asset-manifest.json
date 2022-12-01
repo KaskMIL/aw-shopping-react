@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/aw-shopping-react/static/css/main.579aba2c.css",
-    "main.js": "/aw-shopping-react/static/js/main.9d97fb1b.js",
-    "static/js/787.95891653.chunk.js": "/aw-shopping-react/static/js/787.95891653.chunk.js",
-    "static/media/logo.svg": "/aw-shopping-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/aw-shopping-react/static/css/main.86a7edd6.css",
+    "main.js": "/aw-shopping-react/static/js/main.cb76960d.js",
     "index.html": "/aw-shopping-react/index.html",
-    "main.579aba2c.css.map": "/aw-shopping-react/static/css/main.579aba2c.css.map",
-    "main.9d97fb1b.js.map": "/aw-shopping-react/static/js/main.9d97fb1b.js.map",
-    "787.95891653.chunk.js.map": "/aw-shopping-react/static/js/787.95891653.chunk.js.map"
+    "main.86a7edd6.css.map": "/aw-shopping-react/static/css/main.86a7edd6.css.map",
+    "main.cb76960d.js.map": "/aw-shopping-react/static/js/main.cb76960d.js.map"
   },
   "entrypoints": [
-    "static/css/main.579aba2c.css",
-    "static/js/main.9d97fb1b.js"
+    "static/css/main.86a7edd6.css",
+    "static/js/main.cb76960d.js"
   ]
 }
