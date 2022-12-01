@@ -8,10 +8,10 @@ const Header = () => {
         <input type="text" name="search" />
       </div>
       <ul className='flex gap-5'>
-        <li><a href="#">Home</a></li>
-        <li><a href="#products">Products</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/">Products</a></li>
+        <li><a href="/">About</a></li>
+        <li><a href="/">Contact</a></li>
       </ul>
     </header>
   )
